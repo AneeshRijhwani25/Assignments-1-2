@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+venv/
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data
+data/documents/*.json
+
+# Streamlit
+.streamlit/
+
+# Miscellaneous
+.DS_Store
